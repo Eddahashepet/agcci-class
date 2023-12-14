@@ -1,2 +1,2 @@
 # agcci-class
-My first repository
+personal agcci
